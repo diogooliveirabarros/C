@@ -11,6 +11,7 @@ int main(int argc, char *argv[]) {
 	printf("Mensagem 4.\n");
 	printf("Mensagem 5.\n");
 	
+	system("pause");
 	return 0;
 	
 	// Debugar aperta F5
